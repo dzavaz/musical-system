@@ -1,0 +1,15 @@
+D:\GB\Знакомство с языками программирования\лекция 4\pract\pract4\bin\Debug\net6.0\pract4.exe
+D:\GB\Знакомство с языками программирования\лекция 4\pract\pract4\bin\Debug\net6.0\pract4.deps.json
+D:\GB\Знакомство с языками программирования\лекция 4\pract\pract4\bin\Debug\net6.0\pract4.runtimeconfig.json
+D:\GB\Знакомство с языками программирования\лекция 4\pract\pract4\bin\Debug\net6.0\pract4.dll
+D:\GB\Знакомство с языками программирования\лекция 4\pract\pract4\bin\Debug\net6.0\pract4.pdb
+D:\GB\Знакомство с языками программирования\лекция 4\pract\pract4\obj\Debug\net6.0\pract4.csproj.AssemblyReference.cache
+D:\GB\Знакомство с языками программирования\лекция 4\pract\pract4\obj\Debug\net6.0\pract4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Знакомство с языками программирования\лекция 4\pract\pract4\obj\Debug\net6.0\pract4.AssemblyInfoInputs.cache
+D:\GB\Знакомство с языками программирования\лекция 4\pract\pract4\obj\Debug\net6.0\pract4.AssemblyInfo.cs
+D:\GB\Знакомство с языками программирования\лекция 4\pract\pract4\obj\Debug\net6.0\pract4.csproj.CoreCompileInputs.cache
+D:\GB\Знакомство с языками программирования\лекция 4\pract\pract4\obj\Debug\net6.0\pract4.dll
+D:\GB\Знакомство с языками программирования\лекция 4\pract\pract4\obj\Debug\net6.0\refint\pract4.dll
+D:\GB\Знакомство с языками программирования\лекция 4\pract\pract4\obj\Debug\net6.0\pract4.pdb
+D:\GB\Знакомство с языками программирования\лекция 4\pract\pract4\obj\Debug\net6.0\pract4.genruntimeconfig.cache
+D:\GB\Знакомство с языками программирования\лекция 4\pract\pract4\obj\Debug\net6.0\ref\pract4.dll
